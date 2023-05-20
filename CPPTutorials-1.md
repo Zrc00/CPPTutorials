@@ -28,7 +28,7 @@
 
 **Visual Studio IDE的安装方法**
 
-- 打开浏览器，访问Visual Studio官方网站https://visualstudio.microsoft.com/（如下图）
+- 打开浏览器，访问Visual Studio官方网站https://visualstudio.microsoft.com/ （如下图）
 
   <img src="./Resource/CPPTutorials-1-1.png" alt="image-20230520155009967"  />
 
